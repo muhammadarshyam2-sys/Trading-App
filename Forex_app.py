@@ -15,7 +15,7 @@ from plotly.subplots import
 make_subplots
 import backtest
 import smc
-st.set_page_config(page_title="Forex
+st.set_page_config(page_title="Forex Charts", layout="wide")
 Charts", layout="wide",
 initial_sidebar_state="collapsed")
 # ---------------- Markets MARKETS = {
